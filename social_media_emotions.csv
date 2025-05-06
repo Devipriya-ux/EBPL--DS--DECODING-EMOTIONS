@@ -1,0 +1,6 @@
+id,post_text,timestamp,predicted_emotion,emotion_scores
+1,I am so happy with my new phone!,2025-05-06 05:52:49,joy,"{'joy': 0.95, 'love': 0.88, 'surprise': 0.55}"
+2,This is the worst movie I've ever seen.,2025-05-06 05:52:49,anger,"{'anger': 0.93, 'disgust': 0.76, 'sadness': 0.62}"
+3,I’m scared of what might happen tomorrow.,2025-05-06 05:52:49,fear,"{'fear': 0.89, 'sadness': 0.71, 'disgust': 0.4}"
+4,"Wow, I didn't expect that! Amazing!",2025-05-06 05:52:49,surprise,"{'surprise': 0.92, 'joy': 0.68, 'anticipation': 0.52}"
+5,Feeling a bit down today.,2025-05-06 05:52:49,sadness,"{'sadness': 0.91, 'fear': 0.6, 'anger': 0.43}"
